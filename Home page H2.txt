@@ -5,13 +5,11 @@
     <meta charset="utf-8">
     <title>H2</title>
     <link rel="shortcut icon" href="favicon.ico">
-    <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="   ">
 </head>
 
 <body>
 <header>
-    <img src="town_hall_logo.gif" alt="H2 Logo" height="80">
     <h2>Help For Humanity.</h2>
 </header>
 <nav id="nav_menu">
@@ -19,10 +17,9 @@
         <li><a href="index.html" class="current">Home</a></li>
         <li><a href="#">About us</a></li>
         <li><a href="#">Contact us</a></li>
-        <li><a href="#">Donate</a></li>
         <li><a href="#"> What is happening around the world</a>
             <ul>
-                <li><a href="#">Projects</a></li>
+                <li><a href="#">Donate</a></li>
             </ul>
         </li>
     </ul>
@@ -33,6 +30,6 @@
             <p>About us </p>
         </div>
             <div class="container">
-            <p>nkszgzdg</p>
+            <p></p>
         </div>
     </div>
